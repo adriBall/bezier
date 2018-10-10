@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm and venv
+.idea/
+venv/
+
+# Latex subproject
+latex/*.aux
+latex/*.log
+latex/*.out
+latex/*minted*
+
+.DS_Store
